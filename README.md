@@ -1,28 +1,16 @@
-<!DOCTYPE html>
 
-<html>
-<head>
-  
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-</head>
+     ### ABDULLAH AFZAL
 
-<body>
+<p>
+	<img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
+	</p>
+	
+    I am a student of Computer Science, love to explore and play with new technologies. Fond of research. Belong to Gujranwala and hence a food lover.
+	  
+ 
 
-
-<div class="bgimg">
-  <div class="topleft">
-    <h1>
-      A<a href="" class="typewrite" style="color: brown;" data-period="2000" data-type='[ "BDULLAH","YIN"]'>
-        <span class="wrap"></span>
-      </a> AFZAL
-    </h1>
-  </div>
-  <div class="middle">
-    <h4 style=" font-family: monospace;">I am a student of <span style="color: brown;">Computer Science</span>, love to explore and play with <span style="color: brown;">new technologies</span>. Fond of <span style="color: brown;">research</span>. Belong to <span style="color: brown;">Gujranwala</span> and hence a <span style="color: brown;">food lover</span>.</h4>
-	  <p>
- <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
-</p>
 	### Languages and Tools:
+																		     
 		<p align="left"> 
 			<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="./icon/c-original.svg" alt="c" width="40" height="40"/> </a>
 			<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="icon/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -40,14 +28,8 @@
 			<a href="https://en.wikipedia.org/wiki/MariaDB" target="_blank"> <img src="icon/mariadb.png" alt="terminal" width="40" height="40"/> </a> 
 		</p>
 
-  </div>
-  <div class="bottomleft">
     ### Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+	
     <a href="https://web.facebook.com/profile.php?id=100004274205785" target="blank">Facebook </a>
     <a href="https://www.linkedin.com/in/abdullah-afzal-5a5120176/" target="blank"> LinkedIn </a>
     <a href="https://github.com/abdullah-afzal" target="blank">GitHub </a>
-  </div>
-</div>
-
-</body>
-</html>
