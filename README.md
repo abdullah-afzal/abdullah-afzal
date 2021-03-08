@@ -42,6 +42,7 @@
 
   </div>
   <div class="bottomleft">
+	Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
     <a href="https://web.facebook.com/profile.php?id=100004274205785" target="blank">Facebook </a>
     <a href="https://www.linkedin.com/in/abdullah-afzal-5a5120176/" target="blank"> LinkedIn </a>
     <a href="https://github.com/abdullah-afzal" target="blank">GitHub </a>
