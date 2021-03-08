@@ -26,7 +26,7 @@
 
 	<h3 align="left">Languages and Tools:</h3>
 		<p align="left"> 
-			<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="icon/c-original.svg" alt="c" width="40" height="40"/> </a>
+			<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="./icon/c-original.svg" alt="c" width="40" height="40"/> </a>
 			<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="icon/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 			<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="icon/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 			<a href="https://git-scm.com/" target="_blank"> <img src="icon/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
