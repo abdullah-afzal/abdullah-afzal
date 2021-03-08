@@ -22,8 +22,6 @@
   </div>
   <div class="middle">
     <h4 style=" font-family: monospace;">I am a student of <span style="color: brown;">Computer Science</span>, love to explore and play with <span style="color: brown;">new technologies</span>. Fond of <span style="color: brown;">research</span>. Belong to <span style="color: brown;">Gujranwala</span> and hence a <span style="color: brown;">food lover</span>.</h4>
-    <hr>
-
 	<h3 align="left">Languages and Tools:</h3>
 		<p align="left"> 
 			<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="./icon/c-original.svg" alt="c" width="40" height="40"/> </a>
