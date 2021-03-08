@@ -4,9 +4,6 @@
 <head>
   
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title>Abdullah Afzal</title>
-  <LINK href="styles.css" rel="stylesheet" type="text/css">
-    <script src="script.js"></script>
 </head>
 
 <body>
@@ -22,7 +19,10 @@
   </div>
   <div class="middle">
     <h4 style=" font-family: monospace;">I am a student of <span style="color: brown;">Computer Science</span>, love to explore and play with <span style="color: brown;">new technologies</span>. Fond of <span style="color: brown;">research</span>. Belong to <span style="color: brown;">Gujranwala</span> and hence a <span style="color: brown;">food lover</span>.</h4>
-	<h3 align="left">Languages and Tools:</h3>
+	  <p>
+ <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
+</p>
+	### Languages and Tools:
 		<p align="left"> 
 			<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="./icon/c-original.svg" alt="c" width="40" height="40"/> </a>
 			<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="icon/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -42,7 +42,7 @@
 
   </div>
   <div class="bottomleft">
-	Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+    ### Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
     <a href="https://web.facebook.com/profile.php?id=100004274205785" target="blank">Facebook </a>
     <a href="https://www.linkedin.com/in/abdullah-afzal-5a5120176/" target="blank"> LinkedIn </a>
     <a href="https://github.com/abdullah-afzal" target="blank">GitHub </a>
