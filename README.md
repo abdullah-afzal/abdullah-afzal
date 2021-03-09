@@ -24,7 +24,10 @@ I am a student of Computer Science, love to explore and play with new technologi
 			<a href="https://code.visualstudio.com/" target="_blank"> <img src="icon/visual-studio-code.png" alt="visual-studio-code" width="40" height="40"/> </a>
 			<a href="https://en.wikipedia.org/wiki/Windows_Terminal" target="_blank"> <img src="icon/terminal.png" alt="terminal" width="40" height="40"/> </a>
 			<a href="https://en.wikipedia.org/wiki/WordPress" target="_blank"> <img src="icon/wordpress.png" alt="terminal" width="40" height="40"/> </a>
-			<a href="https://en.wikipedia.org/wiki/MariaDB" target="_blank"> <img src="icon/mariadb.png" alt="terminal" width="40" height="40"/> </a> 
+			<a href="https://en.wikipedia.org/wiki/MariaDB" target="_blank"> <img src="icon/mariadb.png" alt="terminal" width="40" height="40"/> </a>
+			<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="icon/pycharm.svg" alt="pycharm" width="40" height="40"/> </a> 
+			<a href="https://netbeans.apache.org//" target="_blank"> <img src="icon/netbeans.png" alt="netbeans" width="40" height="40"/> </a> 
+			<a href="https://atom.io/" target="_blank"> <img src="icon/atom.png" alt="atom" width="40" height="40"/> </a> 
 		</p>
 
 ### Connect with me<img src="./icon/handshake.gif" height="32px">
