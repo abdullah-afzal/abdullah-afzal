@@ -8,7 +8,7 @@ I am a student of Computer Science, love to explore and play with new technologi
 	  
  
 
-### Languages and Tools:
+## Languages and Tools:
 																		     
 <p align="left"> 
 			<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="./icon/c-original.svg" alt="c" width="40" height="40"/> </a>
