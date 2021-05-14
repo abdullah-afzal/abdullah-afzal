@@ -32,6 +32,6 @@ I am a student of Computer Science, love to explore and play with new technologi
 
 ### Connect with me<img src="./icon/handshake.gif" height="32px">
 	
-<a href="https://web.facebook.com/profile.php?id=100004274205785" target="blank">Facebook </a>
-<a href="https://www.linkedin.com/in/abdullah-afzal-5a5120176/" target="blank"> LinkedIn </a>
-<a href="https://github.com/abdullah-afzal" target="blank">GitHub </a>
+<a href="https://web.facebook.com/profile.php?id=100004274205785" target= _blank>Facebook </a>
+<a href="https://www.linkedin.com/in/abdullah-afzal-5a5120176/" target= _blank> LinkedIn </a>
+<a href="https://github.com/abdullah-afzal" target= _blank>GitHub </a>
