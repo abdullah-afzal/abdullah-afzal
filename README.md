@@ -28,7 +28,7 @@ I am a student of Computer Science, love to explore and play with new technologi
 			<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="icon/pycharm.svg" alt="pycharm" width="40" height="40"/ target="blank"> </a> 
 			<a href="https://netbeans.apache.org//" target="_blank"> <img src="icon/netbeans.png" alt="netbeans" width="40" height="40"/ target="blank"> </a> 
 			<a href="https://atom.io/" target="_blank"> <img src="icon/atom.png" alt="atom" width="40" height="40"/ target="blank"> </a>
-			<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://en.wikipedia.org/wiki/File:Flask_logo.svg" alt="flask" width="40" height="40"/ target="blank"> </a>
+			<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/ target="blank"> </a>
 		</p>
 
 ### Connect with me<img src="./icon/handshake.gif" height="32px">
