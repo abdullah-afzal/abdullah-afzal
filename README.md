@@ -1,7 +1,7 @@
 ### ABDULLAH AFZAL
 
 <p>
-    <img align="right" src="./icon/programmer.gif" width="310px alt="programmergif">
+    <img align="right" src="./icon/programmer.gif" width="310px" alt="programmergif">
 </p>
 	
 I am a student of Computer Science, love to explore and play with new technologies. Fond of research. Belong to Gujranwala and hence a food lover.
