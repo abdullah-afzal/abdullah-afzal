@@ -28,8 +28,8 @@ A student of Computer Science, love to explore and play with new technologies. F
 			<a href="https://en.wikipedia.org/wiki/MariaDB" target="_blank"> <img src="icon/mariadb.png" alt="terminal" width="40" height="40"/ target="blank"> </a>
 			<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="icon/pycharm.svg" alt="pycharm" width="40" height="40"/ target="blank"> </a> 
 			<a href="https://netbeans.apache.org//" target="_blank"> <img src="icon/netbeans.png" alt="netbeans" width="40" height="40"/ target="blank"> </a> 
-			<a href="https://www.postgresql.org//" target="_blank"> <img src="icon/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/ target="blank"> </a>
-			<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="icon/flask.png" alt="flask" width="40" height="40"/ target="blank"> </a>
+			<a href="https://www.postgresql.org//" target="_blank"> <img src="icon/image.png" alt="postgresql" width="40" height="40"/ target="blank"> </a>
+			<a href="https://react.dev//" target="_blank"> <img src="icon/flask.png" alt="flask" width="40" height="40"/ target="blank"> </a>
 		</p>
 
 ### Connect with me<img src="./icon/handshake.gif" height="32px">
