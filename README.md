@@ -24,7 +24,6 @@ A student of Computer Science, love to explore and play with new technologies. F
 			<a href="https://www.python.org" target="_blank"> <img src="icon/python-original.svg" alt="python" width="40" height="40"/ target="blank"> </a>
 			<a href="https://code.visualstudio.com/" target="_blank"> <img src="icon/visual-studio-code.png" alt="visual-studio-code" width="40" height="40"/ target="blank"> </a>
 			<a href="https://en.wikipedia.org/wiki/Windows_Terminal" target="_blank"> <img src="icon/terminal.png" alt="terminal" width="40" height="40"/ target="blank"> </a>
-			<a href="https://en.wikipedia.org/wiki/WordPress" target="_blank"> <img src="icon/wordpress.png" alt="terminal" width="40" height="40"/ target="blank"> </a>
 			<a href="https://en.wikipedia.org/wiki/MariaDB" target="_blank"> <img src="icon/mariadb.png" alt="terminal" width="40" height="40"/ target="blank"> </a>
 			<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="icon/pycharm.svg" alt="pycharm" width="40" height="40"/ target="blank"> </a> 
 			<a href="https://netbeans.apache.org//" target="_blank"> <img src="icon/netbeans.png" alt="netbeans" width="40" height="40"/ target="blank"> </a> 
