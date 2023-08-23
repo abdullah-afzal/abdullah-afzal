@@ -19,7 +19,7 @@ A student of Computer Science, love to explore and play with new technologies. F
 			<a href="https://www.java.com" target="_blank"> <img src="icon/java-original.svg" alt="java" width="40" height="40"/ target="blank"> </a> 
 			<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="icon/javascript-original.svg" alt="javascript" width="40" height="40"/ target="blank"> </a> 
 			<a href="https://www.linux.org/" target="_blank"> <img src="icon/linux-original.svg" alt="linux" width="40" height="40"/ target="blank"> </a>
-			<a href="https://www.medusajs.com/" target="_blank"> <img src="https://medusajs.com/images/$logotype-black.png" alt="medusajs"  height="40"/ target="blank"> </a> 
+			<a href="https://www.medusajs.com/" target="_blank"> <img src="icon/medusa.png" alt="medusajs"  height="40"/ target="blank"> </a> 
 			<a href="https://www.mysql.com/" target="_blank"> <img src="icon/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/ target="blank" > </a> 
 			<a href="https://www.python.org" target="_blank"> <img src="icon/python-original.svg" alt="python" width="40" height="40"/ target="blank"> </a>
 			<a href="https://code.visualstudio.com/" target="_blank"> <img src="icon/visual-studio-code.png" alt="visual-studio-code" width="40" height="40"/ target="blank"> </a>
